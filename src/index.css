@@ -1,0 +1,4 @@
+@import "tailwindcss";
+.myContainer {
+    @apply container mx-auto w-1/2;
+}
